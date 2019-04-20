@@ -1,0 +1,90 @@
+sentence	aspect	polarity
+certainly not the best sushi in new york, however, it is always fresh, and the place is very clean, sterile.	food	conflict
+certainly not the best sushi in new york, however, it is always fresh, and the place is very clean, sterile.	ambience	positive
+while there's a decent menu, it shouldn't take ten minutes to get your drinks and 45 for a dessert pizza.	food	positive
+while there's a decent menu, it shouldn't take ten minutes to get your drinks and 45 for a dessert pizza.	service	negative
+great food but the service was dreadful!	food	positive
+great food but the service was dreadful!	service	negative
+while it was large and a bit noisy, the drinks were fantastic, and the food was superb.	ambience	negative
+while it was large and a bit noisy, the drinks were fantastic, and the food was superb.	food	positive
+a nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen cuisine make mare a great choice for seafood lovers.	ambience	conflict
+a nice space, as long as it doesn't get too crowded and a singleminded devotion to its chosen cuisine make mare a great choice for seafood lovers.	food	positive
+yes, they're a bit more expensive then typical, but then again, so is their food.	price	negative
+yes, they're a bit more expensive then typical, but then again, so is their food.	food	positive
+tiny restaurant with very fast service.	service	positive
+tiny restaurant with very fast service.	ambience	neutral
+) it's not the best japanese restaurant in the east village, but it's a pretty solid one for its modest prices, and worth repeat visits.	price	positive
+) it's not the best japanese restaurant in the east village, but it's a pretty solid one for its modest prices, and worth repeat visits.	misc	conflict
+the food is so good and so popular that waiting can really be a nightmare.	food	positive
+the food is so good and so popular that waiting can really be a nightmare.	service	negative
+the food was definitely good, but when all was said and done, i just couldn't justify it for the price (including 2 drinks, $100/person)...	food	positive
+the food was definitely good, but when all was said and done, i just couldn't justify it for the price (including 2 drinks, $100/person)...	price	negative
+but dinner here is never disappointing, even if the prices are a bit over the top.	food	positive
+but dinner here is never disappointing, even if the prices are a bit over the top.	price	negative
+the ambiance was pretty cool, but not worth the hassle.	ambience	conflict
+the ambiance was pretty cool, but not worth the hassle.	misc	negative
+i just have nothing to say about this place that is negative except that it's not a cheap night out...but it's so worth it.	price	conflict
+i just have nothing to say about this place that is negative except that it's not a cheap night out...but it's so worth it.	misc	positive
+cool atmosphere but such a let down.	ambience	positive
+cool atmosphere but such a let down.	misc	negative
+it took 100 years for parisi to get around to making pizza (at least i don't think they ever made it before this year)...but it was worth the wait.	food	positive
+it took 100 years for parisi to get around to making pizza (at least i don't think they ever made it before this year)...but it was worth the wait.	misc	conflict
+the lack of ac and the fact that there are a million swarming bodies (although everyone is polite and no one is pushing) is a slight turn off.	ambience	negative
+the lack of ac and the fact that there are a million swarming bodies (although everyone is polite and no one is pushing) is a slight turn off.	misc	conflict
+i love the little pie company as much as anyone else who has written reviews, but must discourage anyone from visiting the grand central location due to their rude service from two sales people.	misc	conflict
+i love the little pie company as much as anyone else who has written reviews, but must discourage anyone from visiting the grand central location due to their rude service from two sales people.	service	negative
+glechik might be way too tiny for a restaurant by russian standards, but it is cozy and the food is simply great.	ambience	conflict
+glechik might be way too tiny for a restaurant by russian standards, but it is cozy and the food is simply great.	food	positive
+then she made a fuss about not being able to add 1 or 2 chairs on either end of the table for additional people.	service	negative
+then she made a fuss about not being able to add 1 or 2 chairs on either end of the table for additional people.	misc	positive
+a mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices.	ambience	negative
+a mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices.	food	positive
+a mix of students and area residents crowd into this narrow, barely there space for its quick, tasty treats at dirt-cheap prices.	price	positive
+give it a try, menu is typical french but varied.	food	neutral
+give it a try, menu is typical french but varied.	misc	positive
+it gets crowded at lunchtime but there are lots of seats in back and everyone who works there is so nice.	ambience	conflict
+it gets crowded at lunchtime but there are lots of seats in back and everyone who works there is so nice.	service	positive
+we ordered a glass of wine and were finished eating and paying before the wine came.	service	negative
+we ordered a glass of wine and were finished eating and paying before the wine came.	food	neutral
+i have been going to this restaurant for years, in the past the service was average and the food inconsistant.	service	neutral
+i have been going to this restaurant for years, in the past the service was average and the food inconsistant.	food	negative
+the appetizers are ok, but the service is slow.	food	neutral
+the appetizers are ok, but the service is slow.	service	negative
+it's a basic pizza joint, not much to look at, but the pizza is what i go for.	ambience	neutral
+it's a basic pizza joint, not much to look at, but the pizza is what i go for.	food	positive
+good cake but: it was not the best cake i've ever had, and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked employees.	food	conflict
+good cake but: it was not the best cake i've ever had, and definately not worth standing outside on the sidewalk being herded like cattle by indifferent and overworked employees.	service	negative
+the service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an ac/dc concert or a knicks game.	service	negative
+the service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an ac/dc concert or a knicks game.	food	positive
+the service, however, is a peg or two below the quality of food (horrible bartenders), and the clientele, for the most part, are rowdy, loud-mouthed commuters (this could explain the bad attitudes from the staff) getting loaded for an ac/dc concert or a knicks game.	ambience	negative
+the restaurant could use a little paint, but all in all a great sushi place!	ambience	conflict
+the restaurant could use a little paint, but all in all a great sushi place!	misc	positive
+the food is consistant and good but how it got name best diner in manhattan is beyond me.	food	positive
+the food is consistant and good but how it got name best diner in manhattan is beyond me.	misc	conflict
+but, the filet mignon was not very good at all cocktail hour includes free appetizers (nice non-sushi selection).	food	conflict
+but, the filet mignon was not very good at all cocktail hour includes free appetizers (nice non-sushi selection).	price	positive
+i was on jury duty, rode my bike up centre street on my lunch break and came across this great little place with awesome chicken tacos and hibiscus lemonade.	food	positive
+i was on jury duty, rode my bike up centre street on my lunch break and came across this great little place with awesome chicken tacos and hibiscus lemonade.	ambience	positive
+i was on jury duty, rode my bike up centre street on my lunch break and came across this great little place with awesome chicken tacos and hibiscus lemonade.	misc	neutral
+good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.	food	neutral
+good place to hang out during the day after shopping or to grab a simple soup or classic french dish over a glass of wine.	misc	positive
+slow service, but when you're hanging around with groups of 10 or 20, who really notices?	service	negative
+slow service, but when you're hanging around with groups of 10 or 20, who really notices?	misc	conflict
+two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu.	food	negative
+two complaints- their appetizer selection stinks, it would be nice to get some mozzarella sticks on the menu.	misc	conflict
+the service is great (maybe even borderline nagging but at least you get attention), the desserts are excellent and the coffee is so very good...	service	conflict
+the service is great (maybe even borderline nagging but at least you get attention), the desserts are excellent and the coffee is so very good...	food	positive
+the new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but i must agree with the person that wrote about their favorite words: no, can't, sorry..., boy, they won't bend the rules for anyone.	food	positive
+the new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but i must agree with the person that wrote about their favorite words: no, can't, sorry..., boy, they won't bend the rules for anyone.	service	conflict
+the new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but i must agree with the person that wrote about their favorite words: no, can't, sorry..., boy, they won't bend the rules for anyone.	price	negative
+the new menu has a few creative items,they were smart enough to keep some of the old favorites (but they raised the prices), the staff is friendly most of the time, but i must agree with the person that wrote about their favorite words: no, can't, sorry..., boy, they won't bend the rules for anyone.	misc	conflict
+it' only open for lunch but the food is so good!	food	positive
+it' only open for lunch but the food is so good!	misc	neutral
+how can they survive serving mediocre food at exorbitant prices?!	food	neutral
+how can they survive serving mediocre food at exorbitant prices?!	price	negative
+the food was mediocre and the service was severely slow.	food	neutral
+the food was mediocre and the service was severely slow.	service	negative
+i have eaten here on a different occasion - the food is mediocre for the prices.	food	neutral
+i have eaten here on a different occasion - the food is mediocre for the prices.	price	negative
+although the restaurant itself is nice, i prefer not to go for the food.	ambience	positive
+although the restaurant itself is nice, i prefer not to go for the food.	food	negative
