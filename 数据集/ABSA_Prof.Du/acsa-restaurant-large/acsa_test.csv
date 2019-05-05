@@ -1,4 +1,4 @@
-sentence	aspect	polarity
+ï»¿sentence	aspect	polarity
 the bread is top notch as well.	food	positive
 i have to say they have one of the fastest delivery times in the city.	service	positive
 food is always fresh and hot- ready to eat!	food	positive
@@ -1121,7 +1121,7 @@ chicken teriyaki had tomato or pimentos on top??	food	negative
 food was luke warm.	food	negative
 the waitress was not attentive at all.	service	negative
 i was looking for banana tempura for dessert and they don't have.	food	negative
-not because you are "the four seasons"... ¨C you are allowed to charge an arm and a leg for a romatic dinner.	restaurant	negative
+not because you are "the four seasons"... â€“ you are allowed to charge an arm and a leg for a romatic dinner.	restaurant	negative
 the food was excellent as well as service, however, i left the four seasons very disappointed.	food	positive
 the food was excellent as well as service, however, i left the four seasons very disappointed.	service	positive
 the food was excellent as well as service, however, i left the four seasons very disappointed.	restaurant	negative
@@ -1141,7 +1141,7 @@ the rolls are creative and i have yet to find another sushi place that serves up
 the dancing, white river and millenium rolls are musts.	food	positive
 so good	restaurant	positive
 i can eat here every day of the week really lol love this place ...)	restaurant	positive
-gross food ¨C wow-	food	negative
+gross food â€“ wow-	food	negative
 i can't remember the last time i had such gross food in new york.	food	negative
 my quesadilla tasted like it had been made by a three-year old with no sense of proportion or flavor.	food	negative
 and $11 for a plate of bland guacamole?	food	negative
@@ -1246,7 +1246,7 @@ not what i would expect for the price and prestige of this location.	restaurant	
 all in all, i would return - as it was a beautiful restaurant - but i hope the staff pays more attention to the little details in the future.	restaurant	positive
 all in all, i would return - as it was a beautiful restaurant - but i hope the staff pays more attention to the little details in the future.	ambience	positive
 all in all, i would return - as it was a beautiful restaurant - but i hope the staff pays more attention to the little details in the future.	service	negative
-short and sweet ¨C seating is great:it's romantic,cozy and private.	ambience	positive
+short and sweet â€“ seating is great:it's romantic,cozy and private.	ambience	positive
 the boths are not as small as some of the reviews make them out to look they're perfect for 2 people.	ambience	positive
 the service was extremely fast and attentive(thanks to the service button on your table) but i barely understood 1 word when the waiter took our order.	service	positive
 the food was ok and fair nothing to go crazy.	food	neutral
@@ -1516,29 +1516,29 @@ it was well worth the wait.	restaurant	positive
 the wife had the risotto which was amazing.	food	positive
 it doesn't look appetizing as it's covered in squid ink and it turns your lips and teeth black, but the taste was phenomenal.	food	neutral
 the farro salad and the mashed yukon potatoes were also extremely tasty.	food	positive
-i love margherita pizza ¨C i love east village pizza	restaurant	positive
-i love margherita pizza ¨C i love east village pizza	food	positive
+i love margherita pizza â€“ i love east village pizza	restaurant	positive
+i love margherita pizza â€“ i love east village pizza	food	positive
 love this place, every time we are in the city this is one of the places we always go.	restaurant	positive
 a quintessential slice of nyc pizza.	food	neutral
 the crust has a great bite and a good chew, the sauce is light with a nice acidity to it, the salt from the cheese is great, really heightens the flavor of all the other components.	food	positive
 personally i like the margherita pizza better, but they are all good.	food	positive
 possibly the most romantic restaurant in the city	ambience	positive
-this is undoubtedly my favorite modern japanese brasserie (that don¡¯t serve sushi), and in my opinion, one of the most romantic restaurants in the city!	restaurant	positive
-this is undoubtedly my favorite modern japanese brasserie (that don¡¯t serve sushi), and in my opinion, one of the most romantic restaurants in the city!	ambience	positive
-not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate d¨¦cor will make you feel like you¡¯re no longer in the city.	location	neutral
-not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate d¨¦cor will make you feel like you¡¯re no longer in the city.	ambience	positive
-if you¡¯re planning to come here, make sure that your date is someone whom you really like since you¡¯ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).	ambience	positive
-it¡¯s just you and your date and an occasional cute ¡®excuse me¡¯ before the waiter opens the little curtain to your booth!	ambience	positive
-it¡¯s just you and your date and an occasional cute ¡®excuse me¡¯ before the waiter opens the little curtain to your booth!	service	positive
+this is undoubtedly my favorite modern japanese brasserie (that donâ€™t serve sushi), and in my opinion, one of the most romantic restaurants in the city!	restaurant	positive
+this is undoubtedly my favorite modern japanese brasserie (that donâ€™t serve sushi), and in my opinion, one of the most romantic restaurants in the city!	ambience	positive
+not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate dÃ©cor will make you feel like youâ€™re no longer in the city.	location	neutral
+not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate dÃ©cor will make you feel like youâ€™re no longer in the city.	ambience	positive
+if youâ€™re planning to come here, make sure that your date is someone whom you really like since youâ€™ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).	ambience	positive
+itâ€™s just you and your date and an occasional cute â€˜excuse meâ€™ before the waiter opens the little curtain to your booth!	ambience	positive
+itâ€™s just you and your date and an occasional cute â€˜excuse meâ€™ before the waiter opens the little curtain to your booth!	service	positive
 my party had the bbe $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!	food	positive
 we started off with a delightful sashimi amuse bouche.	food	positive
 i picked the grilled black cod as my entree, which i absolutely devoured while someone commented that the grilled salmon dish was better.	food	positive
 the entrees were served with miso soup and rice.	food	neutral
-the sake¡¯s complimented the courses very well and is successfully easing me into the sake world.	drinks	positive
+the sakeâ€™s complimented the courses very well and is successfully easing me into the sake world.	drinks	positive
 for desserts, we tried the frozen black sesame mousse (interesting but not extraordinary) and matcha (powdered green tea) and blueberry cheesecake, which was phenomenal.	food	positive
-maybe it was the great company (i had friends visiting from philly ¨C yes, it was not a date this time) or the super reasonable price point, but i just can¡¯t say enough good things about this brasserie.	restaurant	positive
-i don¡¯t usually visit the same establishment more than once, what more twice, but i¡¯ll come to zenkichi anytime for a quiet, unhurried and memorable dinner.	restaurant	positive
-i don¡¯t usually visit the same establishment more than once, what more twice, but i¡¯ll come to zenkichi anytime for a quiet, unhurried and memorable dinner.	ambience	positive
+maybe it was the great company (i had friends visiting from philly â€“ yes, it was not a date this time) or the super reasonable price point, but i just canâ€™t say enough good things about this brasserie.	restaurant	positive
+i donâ€™t usually visit the same establishment more than once, what more twice, but iâ€™ll come to zenkichi anytime for a quiet, unhurried and memorable dinner.	restaurant	positive
+i donâ€™t usually visit the same establishment more than once, what more twice, but iâ€™ll come to zenkichi anytime for a quiet, unhurried and memorable dinner.	ambience	positive
 terrible would be a compliment!	restaurant	negative
 the service leaves much to be desired, from feeling like you are rushed the place your order, to being ignored the rest of the night.	service	negative
 we paid a fixed price but got nothing!!	service	negative
@@ -1646,8 +1646,8 @@ going to bark is always worth the train ride, and will make your tongue and bell
 only complaint is the pricing--i believe it would be more reasonable to pay a dollar less on each item listed on the menu.	food	negative
 but nonetheless--great spot, great food.	restaurant	positive
 but nonetheless--great spot, great food.	food	positive
-fabulous food - if the front of house staff don't put you off ¨C	food	positive
-fabulous food - if the front of house staff don't put you off ¨C	service	negative
+fabulous food - if the front of house staff don't put you off â€“	food	positive
+fabulous food - if the front of house staff don't put you off â€“	service	negative
 it's a little out of our price range for dining there except on special occasions, but we've eaten there 6 times in the last 2 years.	restaurant	negative
 each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes i would never return.	service	neutral
 each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes i would never return.	food	positive
@@ -1687,7 +1687,7 @@ great atmosphere	ambience	positive
 i highly recommend the fish tacos, everything else was ok.	food	positive
 cool atmosphere, the fire place in the back really ads to it but needs a bit more heat throughout on a cold night.	ambience	positive
 poor service and management	service	negative
-don¡¯t go to this place!	restaurant	negative
+donâ€™t go to this place!	restaurant	negative
 had an awful experience at casa la femme on a saturday dinner.	restaurant	negative
 appetizers took nearly an hour.	service	negative
 when the main course finally arrived (another 45mins) half of our order was missing.	service	negative
@@ -1695,8 +1695,8 @@ never got an explanation as to what was going on.	service	negative
 the manager was rude and handled the situation extremely poorly.	service	negative
 when we threatened to leave, we were offered a meager discount even though half the order was missing.	service	negative
 on the way out, we heard of other guests complaining about similar issues.	service	negative
-can¡¯t believe how an expensive nyc restaurant can be so disrespectful to its clients.	restaurant	negative
-can¡¯t believe how an expensive nyc restaurant can be so disrespectful to its clients.	service	negative
+canâ€™t believe how an expensive nyc restaurant can be so disrespectful to its clients.	restaurant	negative
+canâ€™t believe how an expensive nyc restaurant can be so disrespectful to its clients.	service	negative
 what a hassle!	restaurant	negative
 the food is very good, but not outstanding.	food	neutral
 there is no way it justifies the accolades it receives, the attitude of the staff or the wait for a table.	service	negative
@@ -1734,13 +1734,13 @@ not the biggest portions but adequate.	food	neutral
 green tea creme brulee is a must!	food	positive
 don't leave the restaurant without it.	food	positive
 no comparison	restaurant	positive
-¨C i can't say enough about this place.	restaurant	positive
+â€“ i can't say enough about this place.	restaurant	positive
 it has great sushi and even better service.	food	positive
 it has great sushi and even better service.	service	positive
 the entire staff was extremely accommodating and tended to my every need.	service	positive
 i've been to this restaurant over a dozen times with no complaints to date.	restaurant	positive
 snotty attitude	service	negative
-¨C we were treated very rudely here one time for breakfast.	service	negative
+â€“ we were treated very rudely here one time for breakfast.	service	negative
 the owner is belligerent to guests that have a complaint.	service	negative
 good food!	food	positive
 this is a great place to get a delicious meal.	food	positive
@@ -1749,7 +1749,7 @@ the staff is pretty friendly.	service	positive
 the onion rings are great!	food	positive
 they are not greasy or anything.	food	positive
 overrated	restaurant	negative
-¨C i was highly disappointed in the food at pagoda.	food	negative
+â€“ i was highly disappointed in the food at pagoda.	food	negative
 the lemon chicken tasted like sticky sweet donuts and the honey walnut prawns, the few they actually give you.....were not good.	food	negative
 nice ambience, but highly overrated place.	ambience	positive
 nice ambience, but highly overrated place.	restaurant	negative
@@ -1760,14 +1760,14 @@ our waiter was non-existent and after our food finally arrived over an hour afte
 i complained to the manager, but he was not even apologetic.	service	negative
 i will never return again.	restaurant	negative
 fabulous italian food!	food	positive
-¨C i highly recommend mioposto.	restaurant	positive
+â€“ i highly recommend mioposto.	restaurant	positive
 i am so happy to have a wonderful italian restaurant in my neighborhood.	restaurant	positive
 the wine list is wonderful and the food reminds me of my recent trip to italy.	drinks	positive
 the wine list is wonderful and the food reminds me of my recent trip to italy.	food	positive
 i love this restaurant	restaurant	positive
-¨C i will never forget the amazing meal, service, and ambiance i experience at this restaurant.	food	positive
-¨C i will never forget the amazing meal, service, and ambiance i experience at this restaurant.	service	positive
-¨C i will never forget the amazing meal, service, and ambiance i experience at this restaurant.	ambience	positive
+â€“ i will never forget the amazing meal, service, and ambiance i experience at this restaurant.	food	positive
+â€“ i will never forget the amazing meal, service, and ambiance i experience at this restaurant.	service	positive
+â€“ i will never forget the amazing meal, service, and ambiance i experience at this restaurant.	ambience	positive
 it was absolutely amazing.	restaurant	positive
 the wine list is incredible and extensive and diverse, the food is all incredible and the staff was all very nice, good at their jobs and cultured.	drinks	positive
 the wine list is incredible and extensive and diverse, the food is all incredible and the staff was all very nice, good at their jobs and cultured.	food	positive
@@ -1781,13 +1781,13 @@ it's *very* reasonably priced, esp for the quality of the food.	food	positive
 i had the kafta plate and it was perfect.	food	positive
 we're going back. :d	restaurant	positive
 finally a meal that you will remember for a long time!	food	positive
-¨C in a age of incremental cost cutting in restaurants, its nice to see a place that bucks that trend, and just plain delivers high quality food and good service, period.	food	positive
-¨C in a age of incremental cost cutting in restaurants, its nice to see a place that bucks that trend, and just plain delivers high quality food and good service, period.	service	positive
+â€“ in a age of incremental cost cutting in restaurants, its nice to see a place that bucks that trend, and just plain delivers high quality food and good service, period.	food	positive
+â€“ in a age of incremental cost cutting in restaurants, its nice to see a place that bucks that trend, and just plain delivers high quality food and good service, period.	service	positive
 this is the place to relax and enjoy the finest quality food the industry can offer.	ambience	positive
 this is the place to relax and enjoy the finest quality food the industry can offer.	food	positive
 caution - its real food for people who love the best.	food	positive
 very disappointing	restaurant	negative
-¨C i took my parents here for their anniversary-very very disappointed!!!	restaurant	negative
+â€“ i took my parents here for their anniversary-very very disappointed!!!	restaurant	negative
 i liked the atmosphere very much but the food was not worth the price.	ambience	positive
 i liked the atmosphere very much but the food was not worth the price.	food	negative
 i may not be a sushi guru but i can tell you that the food here is just okay and that there is not much else to it.	food	negative
@@ -1801,8 +1801,8 @@ furthermore, while the fish is unquestionably fresh, rolls tend to be inexplicab
 the service ranges from mediocre to offensive.	service	negative
 on a recent trip, our waiter was extremely dismissive, while no less than three staff members waited hand-and-foot on a pair of japanese girls seated nearby.	service	negative
 we were then charged for their most expensive sake ($20+ per serving) when we in fact drank a sake of less than half that price.	service	negative
-freshest sushi  ¨C i love this restaurant.	food	positive
-freshest sushi  ¨C i love this restaurant.	restaurant	positive
+freshest sushi  â€“ i love this restaurant.	food	positive
+freshest sushi  â€“ i love this restaurant.	restaurant	positive
 they pay such detail to everything from miso soup to complex rolls.	food	positive
 the sashimi was the freshest and most tender i have ever tasted.	food	positive
 their apps are all delicious.	food	positive
@@ -1812,22 +1812,22 @@ but the space is small and lovely, and the service is helpful.	ambience	positive
 but the space is small and lovely, and the service is helpful.	service	positive
 you are bound to have a very charming time.	restaurant	positive
 not recommended!!!	restaurant	negative
-¨C the food was not great; the waiters were rude.	food	negative
-¨C the food was not great; the waiters were rude.	service	negative
+â€“ the food was not great; the waiters were rude.	food	negative
+â€“ the food was not great; the waiters were rude.	service	negative
 it is not worth going at all and spend your money there!!!	restaurant	negative
-¨C pretty cheap for sit down mexican and downtown.	restaurant	positive
-¨C pretty cheap for sit down mexican and downtown.	location	positive
+â€“ pretty cheap for sit down mexican and downtown.	restaurant	positive
+â€“ pretty cheap for sit down mexican and downtown.	location	positive
 my service was stellar!	service	positive
 the bus boy even spotted that my table was shaking a stabilized it for me.	service	positive
 food was fine, with a some little-tastier-than-normal salsa.	food	positive
 if you're in the area you shouldn't be disappointed.	restaurant	positive
-ok.... ¨C maybe i went in on someone's bad day....	restaurant	negative
+ok.... â€“ maybe i went in on someone's bad day....	restaurant	negative
 the food was great, the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me.	food	positive
 the food was great, the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me.	drinks	positive
 the food was great, the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me.	service	negative
 took forever to get our order taken, water refills were too much to ask for and the only time she was fast was when we asked for our bill when we could get her attention.	service	negative
 i don't know if i'll be back....	restaurant	negative
-mama mia ¨C i live in the neighborhood and feel lucky to live by such a great pizza place.	restaurant	positive
+mama mia â€“ i live in the neighborhood and feel lucky to live by such a great pizza place.	restaurant	positive
 the only problem is you really have to warm up the pizza before it's edible, even when you order ahead.	food	negative
 but once done, it's not too much dough, not too much cheese, not too much sauce.	food	positive
 best sushi in town.	food	positive
@@ -1835,13 +1835,13 @@ everything you want and more, very fresh.	food	positive
 its worth the wait, especially since they'll give you a call when the table is ready.	restaurant	positive
 its worth the wait, especially since they'll give you a call when the table is ready.	service	positive
 the best calamari in seattle!	food	positive
-¨C ...and the best summertime deck experience--they will even bring you a blanket if you get cold in the seattle evening weather.	ambience	positive
-¨C ...and the best summertime deck experience--they will even bring you a blanket if you get cold in the seattle evening weather.	service	positive
+â€“ ...and the best summertime deck experience--they will even bring you a blanket if you get cold in the seattle evening weather.	ambience	positive
+â€“ ...and the best summertime deck experience--they will even bring you a blanket if you get cold in the seattle evening weather.	service	positive
 a perfect place to take out of town guests any time of the year.	restaurant	positive
 endless fun, awesome music, great staff!!!	ambience	positive
 endless fun, awesome music, great staff!!!	service	positive
 endless fun, awesome music, great staff!!!	restaurant	positive
-¨C by far the best bar in the east village...	restaurant	positive
+â€“ by far the best bar in the east village...	restaurant	positive
 i went there with some friends one night to play bingo and watch the sox game and it was a blast!	restaurant	positive
 every time it is called the bartender buys everyone drinks!	service	positive
 been there lots since and its always a good time.	restaurant	positive
@@ -1879,7 +1879,7 @@ you are likely to be disappointed.	restaurant	negative
 excellent food, nice ambience, fairly expensive	food	positive
 excellent food, nice ambience, fairly expensive	ambience	positive
 excellent food, nice ambience, fairly expensive	restaurant	negative
-¨C i loved the pumpkin ravioli and the goat cheese gnocchi (5 big ones to a plate instead of 20 or so little gnocchis) and my sister loved her fillet mignon on top of spinach and mashed potatoes.	food	positive
+â€“ i loved the pumpkin ravioli and the goat cheese gnocchi (5 big ones to a plate instead of 20 or so little gnocchis) and my sister loved her fillet mignon on top of spinach and mashed potatoes.	food	positive
 the ambiance was a peaceful and relaxing break amongst all the kids running around in downtown disney.	ambience	positive
 it was romantic - and even nice even with my sister, reminded me of italy, and had artwork and music that kept up the feeling of being in a mediterrean villa.	ambience	positive
 i recommend it for a night when you want to splurge! (it was a bit expensive)	restaurant	neutral
@@ -1890,7 +1890,7 @@ the chana masala (garbanzo beans) are also excellent.	food	positive
 it's located in a strip mall near the beverly center, not the greatest location, but the food keeps me coming back for more.	location	neutral
 it's located in a strip mall near the beverly center, not the greatest location, but the food keeps me coming back for more.	food	positive
 hidden little jem	restaurant	positive
-¨C tucked away over by the beverly center.	location	neutral
+â€“ tucked away over by the beverly center.	location	neutral
 never too crowded and always great service.	service	positive
 never too crowded and always great service.	restaurant	positive
 i think i have probably tried each item on their menu at least once it is all excellent.	food	positive
@@ -1898,7 +1898,7 @@ i can highly recommend their various saag and paneer and korma.	food	positive
 you routinely see indian families and friends dining there, which is always a good sign.	restaurant	positive
 i appreciate their delivery too.	service	positive
 nice food but no spice!	food	neutral
-¨C i really enjoyed my meal here.	food	positive
+â€“ i really enjoyed my meal here.	food	positive
 i had yummy lamb korma, saag paneer, samosas, naan, etc.	food	positive
 the food was all good but it was way too mild.	food	neutral
 normally, places ask how hot you want it, but they didn't.	service	negative
@@ -1907,8 +1907,8 @@ the naan was some of the best i've had and i really enjoyed the bhartha, not too
 even the chickpeas, which i normally find too dry, were good.	food	positive
 and they packaged everything nicely so it didn't spill.	service	positive
 awesome find	restaurant	positive
-¨C i don't understand how i was a stranger to this place for so long... the fajita salad, the colorado, the fajitas - everything is delicious.	food	positive
-¨C i don't understand how i was a stranger to this place for so long... the fajita salad, the colorado, the fajitas - everything is delicious.	restaurant	positive
+â€“ i don't understand how i was a stranger to this place for so long... the fajita salad, the colorado, the fajitas - everything is delicious.	food	positive
+â€“ i don't understand how i was a stranger to this place for so long... the fajita salad, the colorado, the fajitas - everything is delicious.	restaurant	positive
 i love the warm and cozy environment.	ambience	positive
 i just found out that you can have the place to yourself on nights and weekends for a private party - can't wait to celebrate my next birthday there.	restaurant	positive
 best restaurant in the world, great decor, great customer service, friendly manager	restaurant	positive
@@ -1917,14 +1917,14 @@ best restaurant in the world, great decor, great customer service, friendly mana
 i am never disappointed with there food.	food	positive
 the atmosphere is great.	ambience	positive
 great lunch spot	restaurant	positive
-¨C great financial district mexican spot.	restaurant	positive
+â€“ great financial district mexican spot.	restaurant	positive
 always busy, but they are good at seating you promptly and have quick service.	service	positive
 everything i've had here is good, taco salads, burritos, enchiladas i love this place.	food	positive
 everything i've had here is good, taco salads, burritos, enchiladas i love this place.	restaurant	positive
 also have great margaritas!	drinks	positive
 you can order to go if you have to get back to the office too!	service	positive
 lebanese food!yum!	food	positive
-¨C i've been to open sesame only once, but i'm still reeling from the experience!!	restaurant	positive
+â€“ i've been to open sesame only once, but i'm still reeling from the experience!!	restaurant	positive
 the food is simply unforgettable!	food	positive
 the presentation of the food was an added bonus, it looked just as great as it tasted!	food	positive
 my best friend had the chicken shawarma and she still raves about it being the best anywhere!	food	positive
@@ -1933,7 +1933,7 @@ the staff are friendly and the decor was ethic and colorful.	service	positive
 the staff are friendly and the decor was ethic and colorful.	ambience	positive
 go to open sesame!!!	restaurant	positive
 holy hummus!	food	positive
-¨C the food is here is incredible, though the quality is inconsistent during lunch.	food	neutral
+â€“ the food is here is incredible, though the quality is inconsistent during lunch.	food	neutral
 dinners have always been excellent, in terms of food quality.	food	positive
 the open sesame combo plate is a bargain for the heap of food given.	food	positive
 the side of potatoes is to die for, as is the labne (yogurt dip).	food	positive
@@ -1943,7 +1943,7 @@ the only drawback is the crowded seating and the slow service.	service	negative
 there have been several occasions when we've just not gotten some side dishes we've ordered.	service	negative
 however, this place is a gem, and i won't stop going back.	restaurant	positive
 great beer	drinks	positive
-¨C my first time to dine at this restaurant was with my son and it was absolutely horrible!	restaurant	negative
+â€“ my first time to dine at this restaurant was with my son and it was absolutely horrible!	restaurant	negative
 we waited over 30 minutes for our drinks and over 1 1/2 hours for our food.	service	negative
 i swore never to return for a warm beer and mediocre meal.	drinks	negative
 i swore never to return for a warm beer and mediocre meal.	food	negative
@@ -1957,12 +1957,12 @@ we have since returned and also had a great experience, sampling more small plat
 we did have the same waiter the second time, so maybe the service is spotty and our luck is good.	service	positive
 sunday afternoons there is a band playing and it is lots of fun.	ambience	positive
 seattle's best winelist	drinks	positive
-¨C ray's (surprisingly) has the city's best & most diverse wine list.	drinks	positive
+â€“ ray's (surprisingly) has the city's best & most diverse wine list.	drinks	positive
 the sommelier is fantastic, down-to-earth, & extremely knowledgeable.	service	positive
 i would go back for the wine experience alone.	drinks	positive
 nice job!	restaurant	positive
 not the place it once was	restaurant	negative
-¨C it is sad to see a place that was once the place to meet and eat for bfast or lunch, now be the place that is a big "dont bother"	restaurant	negative
+â€“ it is sad to see a place that was once the place to meet and eat for bfast or lunch, now be the place that is a big "dont bother"	restaurant	negative
 the food is not what it once was (potions have seriously seen downsizing) prices have gone up, and the service is the worst i have experienced anywhere (including mainland europe).	food	negative
 the food is not what it once was (potions have seriously seen downsizing) prices have gone up, and the service is the worst i have experienced anywhere (including mainland europe).	service	negative
 what may be interesting to most is the worst service/attitude comes from the owners of this establishment.	service	negative
@@ -1974,7 +1974,7 @@ until this happens, my advice is to stay away.	restaurant	negative
 open & cool place with the best pizza and coffee	ambience	positive
 open & cool place with the best pizza and coffee	food	positive
 open & cool place with the best pizza and coffee	drinks	positive
-¨C mioposto has a very creative & delicious pizza menu.	food	positive
+â€“ mioposto has a very creative & delicious pizza menu.	food	positive
 the coffe is very good, too.	drinks	positive
 great open and friendly ambience.	ambience	positive
 this place is charming and relaxing.	ambience	positive
@@ -1982,7 +1982,7 @@ the servers behind the counter are always friendly and helpful.	service	positive
 it's a great place to enjoy food and meet friends.	food	positive
 it's a great place to enjoy food and meet friends.	restaurant	positive
 old reliable	restaurant	positive
-¨C after 12 years in seattle ray's rates as the place we always go back to.	restaurant	positive
+â€“ after 12 years in seattle ray's rates as the place we always go back to.	restaurant	positive
 great food, spectacular location, and friendly service keep us coming back year after year.	food	positive
 great food, spectacular location, and friendly service keep us coming back year after year.	location	positive
 great food, spectacular location, and friendly service keep us coming back year after year.	service	positive
@@ -1995,15 +1995,15 @@ atmosphere was nice.	ambience	positive
 service was kind of slow, our waitress took forever to give us our check even though it wasn't that busy.	service	negative
 still i would recommend this place.	restaurant	positive
 wow!!!!!!!!	restaurant	positive
-¨C it cant get any better!!!!!	restaurant	positive
+â€“ it cant get any better!!!!!	restaurant	positive
 what else can you say nice people amazing food wow	food	positive
 what else can you say nice people amazing food wow	service	positive
 what else can you say nice people amazing food wow	restaurant	positive
 great food with an awesome atmosphere!	food	positive
 great food with an awesome atmosphere!	ambience	positive
-¨C eggs, pancakes, potatoes, fresh fruit and yogurt -- everything they serve is delicious.	food	positive
+â€“ eggs, pancakes, potatoes, fresh fruit and yogurt -- everything they serve is delicious.	food	positive
 the best place for a leisure sunday breakfast amidst yachts, then take a stroll through the nearby farmer's market.	restaurant	positive
-great meal ¨C the fish on the omikase platter was absolutely decadent -- there was none of the stringiness that sometimes accompanies fair sushi -- this fish was perfect!!!!	food	positive
+great meal â€“ the fish on the omikase platter was absolutely decadent -- there was none of the stringiness that sometimes accompanies fair sushi -- this fish was perfect!!!!	food	positive
 plus, i am allergic to rice, and the waitstaff was unbelievably accommodating -- didn't even bat an eye!	service	positive
 and the waiter suggested a perfect sake!!	service	positive
 and the waiter suggested a perfect sake!!	drinks	positive
@@ -2014,7 +2014,7 @@ this is right up there with places in tokyo as far as the freshness is concerned
 melt in your mouth nigiri and sashmi, and very tasty rolls too.	food	positive
 be sure to try the oyster roll.	food	positive
 splendid	restaurant	positive
-¨C how to describe the best sushi in nyc: hmmmm, delicious, amazing, fantastic, succulent, perfect, nah, all of the above.	food	positive
+â€“ how to describe the best sushi in nyc: hmmmm, delicious, amazing, fantastic, succulent, perfect, nah, all of the above.	food	positive
 i can't say enough good things about this restaurant, and i can't wait for my next several visits.	restaurant	positive
 the best chuwam mushi i have ever had.	food	positive
 perfect on a cold day.	food	positive
@@ -2026,7 +2026,7 @@ the house special roll is really good.	food	positive
 on weekends, you might have to wait for couple hours.	service	neutral
 however, they do take your cellphone numbers so that you can go hang out somewhere else till they call you up on your cellphone.	service	positive
 a cozy spot for 2	ambience	positive
-¨C i can't believe murphy's has been around for over 25 years, amazing.	restaurant	positive
+â€“ i can't believe murphy's has been around for over 25 years, amazing.	restaurant	positive
 that's a huge compliment, especially in the fickled restaurant business, ...enough already!	restaurant	positive
 brunch at murphy's is to die for, my specialty... egg white omelet, the food is always freshly prepared.	food	positive
 it's the perfect spot for a romantic date for 2 or a secret rendezvous!	restaurant	positive
@@ -2036,7 +2036,7 @@ the restaurant offers an extensive wine list and an ambiance you won't forget!	d
 the restaurant offers an extensive wine list and an ambiance you won't forget!	ambience	positive
 i guarantee you won't be disappointed, there's also valet parking.	restaurant	positive
 addicting!	restaurant	positive
-¨C best mexican place for lunch in the financial district.	restaurant	positive
+â€“ best mexican place for lunch in the financial district.	restaurant	positive
 love the enchiladas and chicken soup - and be sure to check out their specials.	food	positive
 the cooks have been at the restaurant for years and cook family recipes.	food	positive
 can get busy on fridays for a table but once seated, the service is so efficient you can be in and out of there quickly.	service	positive
@@ -2057,14 +2057,14 @@ the caesar salad i ordered had so much lemon i couldn't eat it.	food	negative
 it was decent but nothing exceptional.	food	neutral
 great food, better margaritas!	food	positive
 great food, better margaritas!	drinks	positive
-¨C this is one of my top lunch spots, huge portions, fast service and amazing margaritas!!	restaurant	positive
-¨C this is one of my top lunch spots, huge portions, fast service and amazing margaritas!!	food	positive
-¨C this is one of my top lunch spots, huge portions, fast service and amazing margaritas!!	service	positive
-¨C this is one of my top lunch spots, huge portions, fast service and amazing margaritas!!	drinks	positive
+â€“ this is one of my top lunch spots, huge portions, fast service and amazing margaritas!!	restaurant	positive
+â€“ this is one of my top lunch spots, huge portions, fast service and amazing margaritas!!	food	positive
+â€“ this is one of my top lunch spots, huge portions, fast service and amazing margaritas!!	service	positive
+â€“ this is one of my top lunch spots, huge portions, fast service and amazing margaritas!!	drinks	positive
 it gets really busy, so get there on the early side so you can grab a seat, if you do have to wait, its not bad because the service is quick!	service	positive
 check out the art on the walls, very colorful!	ambience	positive
 i love this place!	restaurant	positive
-¨C i have been eating at this place for over 8 years now and i have never had one bad meal.	food	positive
+â€“ i have been eating at this place for over 8 years now and i have never had one bad meal.	food	positive
 i highly recommend this place to all that want to try indain food for the first time.	food	positive
 the lunch menu is an awesome deal!	food	positive
 plenty of food,trust me .	food	positive
@@ -2077,7 +2077,7 @@ for the finicky sushi eater and those who have sampled the best nyc has to offer
 not only can the selection be innovative, but there's a nice balance of traditional sushi as well.	food	positive
 the nicest waiters in town.	service	positive
 way over-rated!!!!	restaurant	negative
-¨C this place is unbelievably over-rated.	restaurant	negative
+â€“ this place is unbelievably over-rated.	restaurant	negative
 if i want to stand in line on sunday for an hour to get average brunch food, then i would put murphy's at the top of the list.	food	neutral
 if i want to stand in line on sunday for an hour to get average brunch food, then i would put murphy's at the top of the list.	service	negative
 the regular menu here is slightly above average that is not worth the snotty attitude that you receive.	food	neutral
@@ -2103,8 +2103,8 @@ good for late night dining (last minute planning) without reservations.	restaura
 try the chef's choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty.	food	positive
 poor customer service, poor pizza.	service	negative
 poor customer service, poor pizza.	food	negative
-¨C as with most restaurants in seattle, mioposto's service was bad and the food was overpriced.	service	negative
-¨C as with most restaurants in seattle, mioposto's service was bad and the food was overpriced.	food	negative
+â€“ as with most restaurants in seattle, mioposto's service was bad and the food was overpriced.	service	negative
+â€“ as with most restaurants in seattle, mioposto's service was bad and the food was overpriced.	food	negative
 i know many people have their favorite types of pizza and pizza places, but mioposto's pizza lacks quality and good taste.	food	negative
 to be honest, i've had better frozen pizza.	food	negative
 the only positive thing about mioposto is the nice location.	location	positive
@@ -2116,7 +2116,7 @@ the food is fantastic, and the waiting staff has been perfect every single time 
 the only problem would be the wait, but we usually just have a drink in the front while waiting.	service	neutral
 never had one single problem there.	restaurant	positive
 seafood plus	food	positive
-¨C this was  great dining experience.	restaurant	positive
+â€“ this was  great dining experience.	restaurant	positive
 if you're going to see danny gans or just staying at the mirage, don't miss this one.	restaurant	positive
 the appetizer of oysters, lobster, crab (small size) made a perfect entre for my wife.	food	positive
 seabass on lobster risotto was the best.	food	positive
@@ -2130,9 +2130,9 @@ even then, the order was not correct and we were still waiting for a couple item
 we had a very hard time getting the waitress' attention and finally had to get up and go inside to speak to a manager.	service	negative
 as it turns out the owner was seated right next to us and when he came over to check on our problems was very dismissive and offered a token 20% discount on our bill.	service	negative
 when the bill came, he only took the discount off the food and not the drinks.	service	negative
-it was clear he didn¡¯t really care.	service	negative
+it was clear he didnâ€™t really care.	service	negative
 avoid the place	restaurant	negative
-¨C save yourself the waste of time & do not visit.	restaurant	negative
+â€“ save yourself the waste of time & do not visit.	restaurant	negative
 when i got there i sat up stairs where the atmosphere was cozy & the service was horrible!	ambience	positive
 when i got there i sat up stairs where the atmosphere was cozy & the service was horrible!	service	negative
 i waited for 10-15 minutes for service ordered a beer & was never served again.	service	negative
@@ -2143,14 +2143,14 @@ after sitting at the bar for over 20 minutes the bar keep had made only 2 drinks
 we left without ever getting service.	service	negative
 as of writing this i just tried their give away a link again & it still doesn't work.	restaurant	negative
 best crab cakes in town	food	positive
-¨C thats a big statement considering i've been pulling crab traps and making the cakes myself since i was about seven - but something about these little devils gets better every time.	food	positive
+â€“ thats a big statement considering i've been pulling crab traps and making the cakes myself since i was about seven - but something about these little devils gets better every time.	food	positive
 if you can, come to this place by boat and make it a whole evening.	restaurant	positive
 great seasonal fish and seafood, with a classy waterfront setting.	food	positive
 great seasonal fish and seafood, with a classy waterfront setting.	ambience	positive
 always a winner.	restaurant	positive
 great pizza, poor service	food	positive
 great pizza, poor service	service	negative
-¨C love their pizza, especially the mushroom pizza.	food	positive
+â€“ love their pizza, especially the mushroom pizza.	food	positive
 also love their caeser salad.	food	positive
 prefer to order it and pick it up though because i don't like the servers, one young woman in particular.	service	negative
 she doesn't make you feel welcome and treats you like an annoyance.	service	negative
@@ -2161,7 +2161,7 @@ many people talk about the great pizza and poor service, so it can't just be the
 it's a great little place with tons of potential to be a neighborhood joint if the service weren't so impersonal and corporate-like.	restaurant	positive
 it's a great little place with tons of potential to be a neighborhood joint if the service weren't so impersonal and corporate-like.	service	negative
 great breakfast	food	positive
-¨C this place is famous for their breakfast.	food	positive
+â€“ this place is famous for their breakfast.	food	positive
 they have been featured on the food network and they deserve it.	restaurant	positive
 the food is great and they make a mean bloody mary.	food	positive
 the food is great and they make a mean bloody mary.	drinks	positive
@@ -2187,8 +2187,8 @@ melt in your mouth.	food	positive
 we are for sure coming back to this restaurant.	restaurant	positive
 it is sad there is not many people who frequent eating at places like these that look pricey because they are at the hotel... but they are definitely one you don't want to miss, esp if your in downtown san jose.	restaurant	positive
 chintzy portions	food	negative
-¨C the sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for nyc).	food	negative
-¨C the sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for nyc).	restaurant	negative
+â€“ the sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for nyc).	food	negative
+â€“ the sushi here is perfectly good, but for $5 a piece, either the slices of fish should be larger, or there should be no pretense that this is a moderately priced restaurant (even for nyc).	restaurant	negative
 we easily spent more than $40 per person (not including alcohol) and were still hungry.	restaurant	negative
 we easily spent more than $40 per person (not including alcohol) and were still hungry.	food	negative
 i'm astonished that this restaurant is categorized as $$$ rather than $$$$.	restaurant	negative
@@ -2219,9 +2219,9 @@ great selection of sakes.	drinks	positive
 green tea creme brulee gets better each time i have it.	food	positive
 it isn't the cheapest sushi but has been worth it every time.	food	positive
 very poor customer service.	service	negative
-¨C schooner or later's charming location along the marina in long beach and average food does not, unfortunately, compensate for its very poor customer service.	location	positive
-¨C schooner or later's charming location along the marina in long beach and average food does not, unfortunately, compensate for its very poor customer service.	food	neutral
-¨C schooner or later's charming location along the marina in long beach and average food does not, unfortunately, compensate for its very poor customer service.	service	negative
+â€“ schooner or later's charming location along the marina in long beach and average food does not, unfortunately, compensate for its very poor customer service.	location	positive
+â€“ schooner or later's charming location along the marina in long beach and average food does not, unfortunately, compensate for its very poor customer service.	food	neutral
+â€“ schooner or later's charming location along the marina in long beach and average food does not, unfortunately, compensate for its very poor customer service.	service	negative
 while this diner had reasonably good food, the restaurant staff seemed completely indifferent to our presence, and this attitude was reflected in the lack of service.	food	positive
 while this diner had reasonably good food, the restaurant staff seemed completely indifferent to our presence, and this attitude was reflected in the lack of service.	service	negative
 as part of a small party of four, our food was dropped off without comment;	service	negative
@@ -2237,15 +2237,15 @@ the fish was fresh, though it was cut very thin.	food	neutral
 great service.	service	positive
 good sake selection.	drinks	positive
 dungeness crabs here!	food	positive
-¨C ray's is the place to go for high quality seafood dinners.	food	positive
+â€“ ray's is the place to go for high quality seafood dinners.	food	positive
 and they give good quantity for the price.	food	positive
 we were only in seattle for one night and i'm so glad we picked rays for dinner!	restaurant	positive
 i love dungeness crabs and at ray's you can get them served in about 6 different ways!	food	positive
 we shared the family platter and i especially enjoyed the black cod in sake kasu.	food	positive
 i ended the meal with the unusual dessert of a port and chocolate tasting....yummy!	food	positive
 and the service was simply spendid - quite a delight.	service	positive
-¨C great drinks , corn beef hash, coffee, b fast burritos, gluten free menu.	drinks	positive
-¨C great drinks , corn beef hash, coffee, b fast burritos, gluten free menu.	food	positive
+â€“ great drinks , corn beef hash, coffee, b fast burritos, gluten free menu.	drinks	positive
+â€“ great drinks , corn beef hash, coffee, b fast burritos, gluten free menu.	food	positive
 the service is fantastic at this fun place.	service	positive
 the service is fantastic at this fun place.	restaurant	positive
 if there is a line very day of the week for the entire time a place is open, you know it is great.	restaurant	positive
@@ -2260,7 +2260,7 @@ oh, and the cheese fries are awesome!	food	positive
 good food, great service, average prices (for the strip)	food	positive
 good food, great service, average prices (for the strip)	service	positive
 good food, great service, average prices (for the strip)	restaurant	neutral
-¨C i decided to eat at stack because of their price fixed pre-show dinner.	food	neutral
+â€“ i decided to eat at stack because of their price fixed pre-show dinner.	food	neutral
 when i walked in, i was taken aback by their incredible wood decor.	ambience	positive
 the music playing was very hip, 20-30 something pop music, but the subwoofer to the sound system was located under my seat, which became annoying midway through dinner.	ambience	neutral
 i got the shellfish and shrimp appetizer and it was alright.	food	neutral
@@ -2278,8 +2278,8 @@ the dinner only took us about an hour and the prices were alright for the strip,
 but the servers were extremely attentive and very friendly.	service	positive
 overall, i would go back and eat at the restaurant again.	restaurant	positive
 just remember to dress a little urban-chic so you don?t look too far out of place.	restaurant	neutral
-good sake, good food ¨C i honestly don't know much about japanese food at all.	drinks	positive
-good sake, good food ¨C i honestly don't know much about japanese food at all.	food	positive
+good sake, good food â€“ i honestly don't know much about japanese food at all.	drinks	positive
+good sake, good food â€“ i honestly don't know much about japanese food at all.	food	positive
 server made several sake suggestions which were very good.	drinks	positive
 server made several sake suggestions which were very good.	service	positive
 had many dishes but the best was the lobster 3 ways.	food	positive
@@ -2294,7 +2294,7 @@ at best, the food was good and definitely overpriced.	food	negative
 for the amount of food we got the prices should have been lower.	food	negative
 not sure if i would go back.	restaurant	negative
 my favourite pizza joint in seattle	restaurant	positive
-¨C this is my "must bring out of town guests to" restaurant and they always enjoy and rave about it.	restaurant	positive
+â€“ this is my "must bring out of town guests to" restaurant and they always enjoy and rave about it.	restaurant	positive
 in fact, many want to return a second time during their visit.	restaurant	positive
 the pizza is delicious and the salads are fantastic.	food	positive
 i've always found the wait staff and, if you sit at the bar, the cooks very friendly.	service	positive
@@ -2302,17 +2302,17 @@ they aren't the most talkative, but everytime i've been there they have been ver
 i also really enjoy the simplicity of the decor and intimate feeling of a small restaurant.	ambience	positive
 it's just the right size for the menu.	restaurant	positive
 excellent	restaurant	positive
-¨C my husband and i love eating at mioposto caf¨¦.	restaurant	positive
-we¡¯re can¡¯t say enough about their delicious gourmet pizza¡¯s!	food	positive
-you won¡¯t be disappointed by their menu.	food	positive
-the pizza¡¯s are thin crust and the menu offers very creative combinations and toppings.	food	positive
+â€“ my husband and i love eating at mioposto cafÃ©.	restaurant	positive
+weâ€™re canâ€™t say enough about their delicious gourmet pizzaâ€™s!	food	positive
+you wonâ€™t be disappointed by their menu.	food	positive
+the pizzaâ€™s are thin crust and the menu offers very creative combinations and toppings.	food	positive
 you never feel icky and stuffed after you eat there.	food	positive
-the pizza¡¯s are light and scrumptious.	food	positive
+the pizzaâ€™s are light and scrumptious.	food	positive
 try the pizza ensalata!	food	positive
 absolutely delicious.	food	positive
-the pizza¡¯s are not huge and the crust is thin¡­keep that in mind when you¡¯re ordering.	food	neutral
+the pizzaâ€™s are not huge and the crust is thinâ€¦keep that in mind when youâ€™re ordering.	food	neutral
 worth the wait	restaurant	positive
-¨C had to wait thirty minutes to get in the door on a tuesday morning, but it was so worth it.	restaurant	neutral
+â€“ had to wait thirty minutes to get in the door on a tuesday morning, but it was so worth it.	restaurant	neutral
 the food is sinful.	food	positive
 the staff was really friendly.	service	positive
 the specialty here is decadent pancakes, but i've been back now four times, and i've been wowed every time.	food	positive
@@ -2327,7 +2327,7 @@ i have been here, spent tons of money on a chef special dinner and it was a majo
 fancy pieces of exotic fish on a $100 dollar plate and not one was eatable.	food	negative
 donot go!	restaurant	negative
 delicious	food	positive
-¨C the atmosphere is great for any special occasion you might want to celebrate.	ambience	positive
+â€“ the atmosphere is great for any special occasion you might want to celebrate.	ambience	positive
 the best dish are the honwy walnut prawns, just outstanding.	food	positive
 the service is really attentive and charming.	service	positive
 we waited for an hour to be seated.	service	negative
@@ -2338,7 +2338,7 @@ it was worth the wait.	restaurant	positive
 plan on waiting 30-70 minutes.	service	neutral
 will definitely be back.	restaurant	positive
 delicious...!	food	positive
-¨C i recently had the pleasure of dining as this delightful restaurant on 2nd street and wow what a great evening we had.	restaurant	positive
+â€“ i recently had the pleasure of dining as this delightful restaurant on 2nd street and wow what a great evening we had.	restaurant	positive
 the food is fantastic, authentic, delicious and very, very affordable.	food	positive
 the decor was beautiful and unique.	ambience	positive
 there was a really nice vibe about the place...good music, atmosphere and happy looking people.	ambience	positive
@@ -2353,12 +2353,12 @@ the waiters are very experienced and helpful with pairing your drink choice to y
 the sushi is as fresh as it comes?you'd think ocean was in their backyard, no joke!	food	positive
 if you're interested in good tasting (without the fish taste or smell), large portions and creative sushi dishes this is your place...	food	positive
 big thick pepperoni	food	positive
-¨C the pepperoni's cut real thick--yum.	food	positive
+â€“ the pepperoni's cut real thick--yum.	food	positive
 the pizza itself is not exactly the best i've had ever, but still pretty good.	food	positive
 i probably wouldn't go back though 'cuz i don't know if it's worth it.	restaurant	negative
 maybe i'll go back once more many years from now when i've forgotten i went there already.	restaurant	negative
 sit in the balcony	ambience	positive
-¨C not bad.	restaurant	neutral
+â€“ not bad.	restaurant	neutral
 food was good and appetizing.	food	positive
 portions was just enough for me, but may not be for a big eater.	food	neutral
 fair menu selection.	food	neutral
@@ -2382,8 +2382,8 @@ i have a but here - there was a bathroom attendant in the restroom which was odd
 the bathroom itself is very small with two toilets and only one sink, the girl was staying totally on the way hanging out paper towels from the dispenser.	restaurant	negative
 i felt awkward and next time went to the casino bathroom.	restaurant	negative
 this place rocks!!	restaurant	positive
-¨C mercedes restaurant is so tasty, the service is undeniably awesome!	service	positive
-¨C mercedes restaurant is so tasty, the service is undeniably awesome!	food	positive
+â€“ mercedes restaurant is so tasty, the service is undeniably awesome!	service	positive
+â€“ mercedes restaurant is so tasty, the service is undeniably awesome!	food	positive
 the chips  and salsa are so yummy, and the prices are fabulous.	food	positive
 the chips  and salsa are so yummy, and the prices are fabulous.	restaurant	positive
 the atmosphere is aspiring, and  the decor is festive and amazing..	ambience	positive
@@ -2407,7 +2407,7 @@ in the end our check came to $27 for 4 small pancakes, a breakfast burrito, an o
 in the end our check came to $27 for 4 small pancakes, a breakfast burrito, an orange juice and an iced tea (i had water).	drinks	negative
 much more than just a great view!	location	positive
 much more than just a great view!	restaurant	positive
-¨C i am exceedingly pleased to report that my dinner at ray's boathouse last friday completely exceeded my expectations.	restaurant	positive
+â€“ i am exceedingly pleased to report that my dinner at ray's boathouse last friday completely exceeded my expectations.	restaurant	positive
 ray's is something of a seattle institution, but given its gorgeous sound views, i had suspected that the accolades were more due to the scenery than to the food and service.	location	positive
 imagine my happy surprise upon finding that the views are only the third-best thing about ray's!	location	positive
 imagine my happy surprise upon finding that the views are only the third-best thing about ray's!	restaurant	positive

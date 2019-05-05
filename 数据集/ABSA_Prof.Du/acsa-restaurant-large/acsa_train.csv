@@ -1,4 +1,4 @@
-sentence	aspect	polarity
+ï»¿sentence	aspect	polarity
 but the waitstaff was so horrible to us.	service	negative
 to be completely fair, the only redeeming factor was the food, which was above average, but couldn't make up for all the other deficiencies of teodora.	food	positive
 to be completely fair, the only redeeming factor was the food, which was above average, but couldn't make up for all the other deficiencies of teodora.	misc	negative
@@ -4061,7 +4061,7 @@ chicken teriyaki had tomato or pimentos on top??	food	negative
 food was luke warm.	food	negative
 the waitress was not attentive at all.	service	negative
 i was looking for banana tempura for dessert and they don't have.	food	negative
-not because you are "the four seasons"... ¨C you are allowed to charge an arm and a leg for a romantic dinner.	restaurant	negative
+not because you are "the four seasons"... â€“ you are allowed to charge an arm and a leg for a romantic dinner.	restaurant	negative
 the food was excellent as well as service, however, i left the four seasons very disappointed.	food	positive
 the food was excellent as well as service, however, i left the four seasons very disappointed.	service	positive
 the food was excellent as well as service, however, i left the four seasons very disappointed.	restaurant	negative
@@ -4081,7 +4081,7 @@ the rolls are creative and i have yet to find another sushi place that serves up
 the dancing, white river and millenium rolls are musts.	food	positive
 so good	restaurant	positive
 i can eat here every day of the week really lol love this place ...)	restaurant	positive
-gross food ¨C wow-	food	negative
+gross food â€“ wow-	food	negative
 i can't remember the last time i had such gross food in new york.	food	negative
 my quesadilla tasted like it had been made by a three-year old with no sense of proportion or flavor.	food	negative
 and $11 for a plate of bland guacamole?	food	negative
@@ -4186,7 +4186,7 @@ not what i would expect for the price and prestige of this location.	restaurant	
 all in all, i would return - as it was a beautiful restaurant - but i hope the staff pays more attention to the little details in the future.	restaurant	positive
 all in all, i would return - as it was a beautiful restaurant - but i hope the staff pays more attention to the little details in the future.	ambience	positive
 all in all, i would return - as it was a beautiful restaurant - but i hope the staff pays more attention to the little details in the future.	service	negative
-short and sweet ¨C seating is great:it's romantic,cozy and private.	ambience	positive
+short and sweet â€“ seating is great:it's romantic,cozy and private.	ambience	positive
 the boths are not as small as some of the reviews make them out to look they're perfect for 2 people.	ambience	positive
 the service was extremely fast and attentive(thanks to the service button on your table) but i barely understood 1 word when the waiter took our order.	service	positive
 the food was ok and fair nothing to go crazy.	food	neutral
@@ -4454,28 +4454,28 @@ it was well worth the wait.	restaurant	positive
 the wife had the risotto which was amazing.	food	positive
 it doesn't look appetizing as it's covered in squid ink and it turns your lips and teeth black, but the taste was phenomenal.	food	neutral
 the farro salad and the mashed yukon potatoes were also extremely tasty.	food	positive
-i love margherita pizza ¨C i love east village pizza	restaurant	positive
-i love margherita pizza ¨C i love east village pizza	food	positive
+i love margherita pizza â€“ i love east village pizza	restaurant	positive
+i love margherita pizza â€“ i love east village pizza	food	positive
 love this place, every time we are in the city this is one of the places we always go.	restaurant	positive
 a quintessential slice of nyc pizza.	food	neutral
 the crust has a great bite and a good chew, the sauce is light with a nice acidity to it, the salt from the cheese is great, really heightens the flavor of all the other components.	food	positive
 personally i like the margherita pizza better, but they are all good.	food	positive
 possibly the most romantic restaurant in the city	ambience	positive
-this is undoubtedly my favorite modern japanese brasserie (that don¡¯t serve sushi), and in my opinion, one of the most romantic restaurants in the city!	restaurant	positive
-this is undoubtedly my favorite modern japanese brasserie (that don¡¯t serve sushi), and in my opinion, one of the most romantic restaurants in the city!	ambience	positive
-not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate d¨¦cor will make you feel like you¡¯re no longer in the city.	location	neutral
-not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate d¨¦cor will make you feel like you¡¯re no longer in the city.	ambience	positive
-if you¡¯re planning to come here, make sure that your date is someone whom you really like since you¡¯ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).	ambience	positive
-it¡¯s just you and your date and an occasional cute ¡®excuse me¡¯ before the waiter opens the little curtain to your booth!	ambience	positive
-it¡¯s just you and your date and an occasional cute ¡®excuse me¡¯ before the waiter opens the little curtain to your booth!	service	positive
+this is undoubtedly my favorite modern japanese brasserie (that donâ€™t serve sushi), and in my opinion, one of the most romantic restaurants in the city!	restaurant	positive
+this is undoubtedly my favorite modern japanese brasserie (that donâ€™t serve sushi), and in my opinion, one of the most romantic restaurants in the city!	ambience	positive
+not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate dÃ©cor will make you feel like youâ€™re no longer in the city.	location	neutral
+not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate dÃ©cor will make you feel like youâ€™re no longer in the city.	ambience	positive
+if youâ€™re planning to come here, make sure that your date is someone whom you really like since youâ€™ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).	ambience	positive
+itâ€™s just you and your date and an occasional cute â€˜excuse meâ€™ before the waiter opens the little curtain to your booth!	ambience	positive
+itâ€™s just you and your date and an occasional cute â€˜excuse meâ€™ before the waiter opens the little curtain to your booth!	service	positive
 my party had the bbe $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!	food	positive
 we started off with a delightful sashimi amuse bouche.	food	positive
 i picked the grilled black cod as my entree, which i absolutely devoured while someone commented that the grilled salmon dish was better.	food	positive
-the sake¡¯s complimented the courses very well and is successfully easing me into the sake world.	drinks	positive
+the sakeâ€™s complimented the courses very well and is successfully easing me into the sake world.	drinks	positive
 for desserts, we tried the frozen black sesame mousse (interesting but not extraordinary) and matcha (powdered green tea) and blueberry cheesecake, which was phenomenal.	food	positive
-maybe it was the great company (i had friends visiting from philly ¨C yes, it was not a date this time) or the super reasonable price point, but i just can¡¯t say enough good things about this brasserie.	restaurant	positive
-i don¡¯t usually visit the same establishment more than once, what more twice, but i¡¯ll come to zenkichi anytime for a quiet, unhurried and memorable dinner.	restaurant	positive
-i don¡¯t usually visit the same establishment more than once, what more twice, but i¡¯ll come to zenkichi anytime for a quiet, unhurried and memorable dinner.	ambience	positive
+maybe it was the great company (i had friends visiting from philly â€“ yes, it was not a date this time) or the super reasonable price point, but i just canâ€™t say enough good things about this brasserie.	restaurant	positive
+i donâ€™t usually visit the same establishment more than once, what more twice, but iâ€™ll come to zenkichi anytime for a quiet, unhurried and memorable dinner.	restaurant	positive
+i donâ€™t usually visit the same establishment more than once, what more twice, but iâ€™ll come to zenkichi anytime for a quiet, unhurried and memorable dinner.	ambience	positive
 terrible would be a compliment!	restaurant	negative
 the service leaves much to be desired, from feeling like you are rushed the place your order, to being ignored the rest of the night.	service	negative
 we paid a fixed pricce but got nothing!!	service	negative
@@ -4582,8 +4582,8 @@ going to bark is always worth the train ride, and will make your tongue and bell
 only complaint is the pricing--i believe it would be more reasonable to pay a dollar less on each item listed on the menu.	food	negative
 but nonetheless--great spot, great food.	restaurant	positive
 but nonetheless--great spot, great food.	food	positive
-fabulous food - if the front of house staff don't put you off ¨C	food	positive
-fabulous food - if the front of house staff don't put you off ¨C	service	negative
+fabulous food - if the front of house staff don't put you off â€“	food	positive
+fabulous food - if the front of house staff don't put you off â€“	service	negative
 it's a little out of our price range for dining there except on special occasions, but we've eaten there 6 times in the last 2 years.	restaurant	negative
 each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes i would never return.	service	neutral
 each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes i would never return.	food	positive
@@ -4623,7 +4623,7 @@ great atmosphere	ambience	positive
 i highly recommend the fish tacos, everything else was ok.	food	positive
 cool atmosphere, the fire place in the back really ads to it but needs a bit more heat throughout on a cold night.	ambience	positive
 poor service and management	service	negative
-don¡¯t go to this place!	restaurant	negative
+donâ€™t go to this place!	restaurant	negative
 had an awful experience at casa la femme on a saturday dinner.	restaurant	negative
 appetizers took nearly an hour.	service	negative
 when the main course finally arrived (another 45mins) half of our order was missing.	service	negative
@@ -4631,8 +4631,8 @@ never got an explanation as to what was going on.	service	negative
 the manager was rude and handled the situation extremely poorly.	service	negative
 when we threatened to leave, we were offered a meager discount even though half the order was missing.	service	negative
 on the way out, we heard of other guests complaining about similar issues.	service	negative
-can¡¯t believe how an expensive nyc restaurant can be so disrespectful to its clients.	restaurant	negative
-can¡¯t believe how an expensive nyc restaurant can be so disrespectful to its clients.	service	negative
+canâ€™t believe how an expensive nyc restaurant can be so disrespectful to its clients.	restaurant	negative
+canâ€™t believe how an expensive nyc restaurant can be so disrespectful to its clients.	service	negative
 what a hassle!	restaurant	negative
 the food is very good, but not outstanding.	food	neutral
 there is no way it justifies the accolades it receives, the attitude of the staff or the wait for a table.	service	negative
@@ -27186,13 +27186,13 @@ i was looking for banana tempura for dessert and they don't have.	ambience	none
 i was looking for banana tempura for dessert and they don't have.	restaurant	none
 i was looking for banana tempura for dessert and they don't have.	location	none
 i was looking for banana tempura for dessert and they don't have.	drinks	none
-not because you are "the four seasons"... ¨C you are allowed to charge an arm and a leg for a romantic dinner.	service	none
-not because you are "the four seasons"... ¨C you are allowed to charge an arm and a leg for a romantic dinner.	food	none
-not because you are "the four seasons"... ¨C you are allowed to charge an arm and a leg for a romantic dinner.	misc	none
-not because you are "the four seasons"... ¨C you are allowed to charge an arm and a leg for a romantic dinner.	price	none
-not because you are "the four seasons"... ¨C you are allowed to charge an arm and a leg for a romantic dinner.	ambience	none
-not because you are "the four seasons"... ¨C you are allowed to charge an arm and a leg for a romantic dinner.	location	none
-not because you are "the four seasons"... ¨C you are allowed to charge an arm and a leg for a romantic dinner.	drinks	none
+not because you are "the four seasons"... â€“ you are allowed to charge an arm and a leg for a romantic dinner.	service	none
+not because you are "the four seasons"... â€“ you are allowed to charge an arm and a leg for a romantic dinner.	food	none
+not because you are "the four seasons"... â€“ you are allowed to charge an arm and a leg for a romantic dinner.	misc	none
+not because you are "the four seasons"... â€“ you are allowed to charge an arm and a leg for a romantic dinner.	price	none
+not because you are "the four seasons"... â€“ you are allowed to charge an arm and a leg for a romantic dinner.	ambience	none
+not because you are "the four seasons"... â€“ you are allowed to charge an arm and a leg for a romantic dinner.	location	none
+not because you are "the four seasons"... â€“ you are allowed to charge an arm and a leg for a romantic dinner.	drinks	none
 the food was excellent as well as service, however, i left the four seasons very disappointed.	misc	none
 the food was excellent as well as service, however, i left the four seasons very disappointed.	price	none
 the food was excellent as well as service, however, i left the four seasons very disappointed.	ambience	none
@@ -27286,13 +27286,13 @@ i can eat here every day of the week really lol love this place ...)	price	none
 i can eat here every day of the week really lol love this place ...)	ambience	none
 i can eat here every day of the week really lol love this place ...)	location	none
 i can eat here every day of the week really lol love this place ...)	drinks	none
-gross food ¨C wow-	service	none
-gross food ¨C wow-	misc	none
-gross food ¨C wow-	price	none
-gross food ¨C wow-	ambience	none
-gross food ¨C wow-	restaurant	none
-gross food ¨C wow-	location	none
-gross food ¨C wow-	drinks	none
+gross food â€“ wow-	service	none
+gross food â€“ wow-	misc	none
+gross food â€“ wow-	price	none
+gross food â€“ wow-	ambience	none
+gross food â€“ wow-	restaurant	none
+gross food â€“ wow-	location	none
+gross food â€“ wow-	drinks	none
 i can't remember the last time i had such gross food in new york.	service	none
 i can't remember the last time i had such gross food in new york.	misc	none
 i can't remember the last time i had such gross food in new york.	price	none
@@ -27853,13 +27853,13 @@ all in all, i would return - as it was a beautiful restaurant - but i hope the s
 all in all, i would return - as it was a beautiful restaurant - but i hope the staff pays more attention to the little details in the future.	price	none
 all in all, i would return - as it was a beautiful restaurant - but i hope the staff pays more attention to the little details in the future.	location	none
 all in all, i would return - as it was a beautiful restaurant - but i hope the staff pays more attention to the little details in the future.	drinks	none
-short and sweet ¨C seating is great:it's romantic,cozy and private.	service	none
-short and sweet ¨C seating is great:it's romantic,cozy and private.	food	none
-short and sweet ¨C seating is great:it's romantic,cozy and private.	misc	none
-short and sweet ¨C seating is great:it's romantic,cozy and private.	price	none
-short and sweet ¨C seating is great:it's romantic,cozy and private.	restaurant	none
-short and sweet ¨C seating is great:it's romantic,cozy and private.	location	none
-short and sweet ¨C seating is great:it's romantic,cozy and private.	drinks	none
+short and sweet â€“ seating is great:it's romantic,cozy and private.	service	none
+short and sweet â€“ seating is great:it's romantic,cozy and private.	food	none
+short and sweet â€“ seating is great:it's romantic,cozy and private.	misc	none
+short and sweet â€“ seating is great:it's romantic,cozy and private.	price	none
+short and sweet â€“ seating is great:it's romantic,cozy and private.	restaurant	none
+short and sweet â€“ seating is great:it's romantic,cozy and private.	location	none
+short and sweet â€“ seating is great:it's romantic,cozy and private.	drinks	none
 the boths are not as small as some of the reviews make them out to look they're perfect for 2 people.	service	none
 the boths are not as small as some of the reviews make them out to look they're perfect for 2 people.	food	none
 the boths are not as small as some of the reviews make them out to look they're perfect for 2 people.	misc	none
@@ -29353,12 +29353,12 @@ the farro salad and the mashed yukon potatoes were also extremely tasty.	ambienc
 the farro salad and the mashed yukon potatoes were also extremely tasty.	restaurant	none
 the farro salad and the mashed yukon potatoes were also extremely tasty.	location	none
 the farro salad and the mashed yukon potatoes were also extremely tasty.	drinks	none
-i love margherita pizza ¨C i love east village pizza	service	none
-i love margherita pizza ¨C i love east village pizza	misc	none
-i love margherita pizza ¨C i love east village pizza	price	none
-i love margherita pizza ¨C i love east village pizza	ambience	none
-i love margherita pizza ¨C i love east village pizza	location	none
-i love margherita pizza ¨C i love east village pizza	drinks	none
+i love margherita pizza â€“ i love east village pizza	service	none
+i love margherita pizza â€“ i love east village pizza	misc	none
+i love margherita pizza â€“ i love east village pizza	price	none
+i love margherita pizza â€“ i love east village pizza	ambience	none
+i love margherita pizza â€“ i love east village pizza	location	none
+i love margherita pizza â€“ i love east village pizza	drinks	none
 love this place, every time we are in the city this is one of the places we always go.	service	none
 love this place, every time we are in the city this is one of the places we always go.	food	none
 love this place, every time we are in the city this is one of the places we always go.	misc	none
@@ -29394,31 +29394,31 @@ possibly the most romantic restaurant in the city	price	none
 possibly the most romantic restaurant in the city	restaurant	none
 possibly the most romantic restaurant in the city	location	none
 possibly the most romantic restaurant in the city	drinks	none
-this is undoubtedly my favorite modern japanese brasserie (that don¡¯t serve sushi), and in my opinion, one of the most romantic restaurants in the city!	service	none
-this is undoubtedly my favorite modern japanese brasserie (that don¡¯t serve sushi), and in my opinion, one of the most romantic restaurants in the city!	food	none
-this is undoubtedly my favorite modern japanese brasserie (that don¡¯t serve sushi), and in my opinion, one of the most romantic restaurants in the city!	misc	none
-this is undoubtedly my favorite modern japanese brasserie (that don¡¯t serve sushi), and in my opinion, one of the most romantic restaurants in the city!	price	none
-this is undoubtedly my favorite modern japanese brasserie (that don¡¯t serve sushi), and in my opinion, one of the most romantic restaurants in the city!	location	none
-this is undoubtedly my favorite modern japanese brasserie (that don¡¯t serve sushi), and in my opinion, one of the most romantic restaurants in the city!	drinks	none
-not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate d¨¦cor will make you feel like you¡¯re no longer in the city.	service	none
-not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate d¨¦cor will make you feel like you¡¯re no longer in the city.	food	none
-not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate d¨¦cor will make you feel like you¡¯re no longer in the city.	misc	none
-not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate d¨¦cor will make you feel like you¡¯re no longer in the city.	price	none
-not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate d¨¦cor will make you feel like you¡¯re no longer in the city.	restaurant	none
-not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate d¨¦cor will make you feel like you¡¯re no longer in the city.	drinks	none
-if you¡¯re planning to come here, make sure that your date is someone whom you really like since you¡¯ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).	service	none
-if you¡¯re planning to come here, make sure that your date is someone whom you really like since you¡¯ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).	food	none
-if you¡¯re planning to come here, make sure that your date is someone whom you really like since you¡¯ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).	misc	none
-if you¡¯re planning to come here, make sure that your date is someone whom you really like since you¡¯ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).	price	none
-if you¡¯re planning to come here, make sure that your date is someone whom you really like since you¡¯ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).	restaurant	none
-if you¡¯re planning to come here, make sure that your date is someone whom you really like since you¡¯ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).	location	none
-if you¡¯re planning to come here, make sure that your date is someone whom you really like since you¡¯ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).	drinks	none
-it¡¯s just you and your date and an occasional cute ¡®excuse me¡¯ before the waiter opens the little curtain to your booth!	food	none
-it¡¯s just you and your date and an occasional cute ¡®excuse me¡¯ before the waiter opens the little curtain to your booth!	misc	none
-it¡¯s just you and your date and an occasional cute ¡®excuse me¡¯ before the waiter opens the little curtain to your booth!	price	none
-it¡¯s just you and your date and an occasional cute ¡®excuse me¡¯ before the waiter opens the little curtain to your booth!	restaurant	none
-it¡¯s just you and your date and an occasional cute ¡®excuse me¡¯ before the waiter opens the little curtain to your booth!	location	none
-it¡¯s just you and your date and an occasional cute ¡®excuse me¡¯ before the waiter opens the little curtain to your booth!	drinks	none
+this is undoubtedly my favorite modern japanese brasserie (that donâ€™t serve sushi), and in my opinion, one of the most romantic restaurants in the city!	service	none
+this is undoubtedly my favorite modern japanese brasserie (that donâ€™t serve sushi), and in my opinion, one of the most romantic restaurants in the city!	food	none
+this is undoubtedly my favorite modern japanese brasserie (that donâ€™t serve sushi), and in my opinion, one of the most romantic restaurants in the city!	misc	none
+this is undoubtedly my favorite modern japanese brasserie (that donâ€™t serve sushi), and in my opinion, one of the most romantic restaurants in the city!	price	none
+this is undoubtedly my favorite modern japanese brasserie (that donâ€™t serve sushi), and in my opinion, one of the most romantic restaurants in the city!	location	none
+this is undoubtedly my favorite modern japanese brasserie (that donâ€™t serve sushi), and in my opinion, one of the most romantic restaurants in the city!	drinks	none
+not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate dÃ©cor will make you feel like youâ€™re no longer in the city.	service	none
+not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate dÃ©cor will make you feel like youâ€™re no longer in the city.	food	none
+not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate dÃ©cor will make you feel like youâ€™re no longer in the city.	misc	none
+not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate dÃ©cor will make you feel like youâ€™re no longer in the city.	price	none
+not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate dÃ©cor will make you feel like youâ€™re no longer in the city.	restaurant	none
+not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate dÃ©cor will make you feel like youâ€™re no longer in the city.	drinks	none
+if youâ€™re planning to come here, make sure that your date is someone whom you really like since youâ€™ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).	service	none
+if youâ€™re planning to come here, make sure that your date is someone whom you really like since youâ€™ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).	food	none
+if youâ€™re planning to come here, make sure that your date is someone whom you really like since youâ€™ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).	misc	none
+if youâ€™re planning to come here, make sure that your date is someone whom you really like since youâ€™ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).	price	none
+if youâ€™re planning to come here, make sure that your date is someone whom you really like since youâ€™ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).	restaurant	none
+if youâ€™re planning to come here, make sure that your date is someone whom you really like since youâ€™ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).	location	none
+if youâ€™re planning to come here, make sure that your date is someone whom you really like since youâ€™ll be ushered to private booths where there will be no people or food watching (choose the ones on the ground level that have glass ceilings so you may see the stars in the sky!).	drinks	none
+itâ€™s just you and your date and an occasional cute â€˜excuse meâ€™ before the waiter opens the little curtain to your booth!	food	none
+itâ€™s just you and your date and an occasional cute â€˜excuse meâ€™ before the waiter opens the little curtain to your booth!	misc	none
+itâ€™s just you and your date and an occasional cute â€˜excuse meâ€™ before the waiter opens the little curtain to your booth!	price	none
+itâ€™s just you and your date and an occasional cute â€˜excuse meâ€™ before the waiter opens the little curtain to your booth!	restaurant	none
+itâ€™s just you and your date and an occasional cute â€˜excuse meâ€™ before the waiter opens the little curtain to your booth!	location	none
+itâ€™s just you and your date and an occasional cute â€˜excuse meâ€™ before the waiter opens the little curtain to your booth!	drinks	none
 my party had the bbe $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!	service	none
 my party had the bbe $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!	misc	none
 my party had the bbe $29 fixe prix menu, which was such a wonderful deal since it also came with a flight of sake!	price	none
@@ -29440,13 +29440,13 @@ i picked the grilled black cod as my entree, which i absolutely devoured while s
 i picked the grilled black cod as my entree, which i absolutely devoured while someone commented that the grilled salmon dish was better.	restaurant	none
 i picked the grilled black cod as my entree, which i absolutely devoured while someone commented that the grilled salmon dish was better.	location	none
 i picked the grilled black cod as my entree, which i absolutely devoured while someone commented that the grilled salmon dish was better.	drinks	none
-the sake¡¯s complimented the courses very well and is successfully easing me into the sake world.	service	none
-the sake¡¯s complimented the courses very well and is successfully easing me into the sake world.	food	none
-the sake¡¯s complimented the courses very well and is successfully easing me into the sake world.	misc	none
-the sake¡¯s complimented the courses very well and is successfully easing me into the sake world.	price	none
-the sake¡¯s complimented the courses very well and is successfully easing me into the sake world.	ambience	none
-the sake¡¯s complimented the courses very well and is successfully easing me into the sake world.	restaurant	none
-the sake¡¯s complimented the courses very well and is successfully easing me into the sake world.	location	none
+the sakeâ€™s complimented the courses very well and is successfully easing me into the sake world.	service	none
+the sakeâ€™s complimented the courses very well and is successfully easing me into the sake world.	food	none
+the sakeâ€™s complimented the courses very well and is successfully easing me into the sake world.	misc	none
+the sakeâ€™s complimented the courses very well and is successfully easing me into the sake world.	price	none
+the sakeâ€™s complimented the courses very well and is successfully easing me into the sake world.	ambience	none
+the sakeâ€™s complimented the courses very well and is successfully easing me into the sake world.	restaurant	none
+the sakeâ€™s complimented the courses very well and is successfully easing me into the sake world.	location	none
 for desserts, we tried the frozen black sesame mousse (interesting but not extraordinary) and matcha (powdered green tea) and blueberry cheesecake, which was phenomenal.	service	none
 for desserts, we tried the frozen black sesame mousse (interesting but not extraordinary) and matcha (powdered green tea) and blueberry cheesecake, which was phenomenal.	misc	none
 for desserts, we tried the frozen black sesame mousse (interesting but not extraordinary) and matcha (powdered green tea) and blueberry cheesecake, which was phenomenal.	price	none
@@ -29454,19 +29454,19 @@ for desserts, we tried the frozen black sesame mousse (interesting but not extra
 for desserts, we tried the frozen black sesame mousse (interesting but not extraordinary) and matcha (powdered green tea) and blueberry cheesecake, which was phenomenal.	restaurant	none
 for desserts, we tried the frozen black sesame mousse (interesting but not extraordinary) and matcha (powdered green tea) and blueberry cheesecake, which was phenomenal.	location	none
 for desserts, we tried the frozen black sesame mousse (interesting but not extraordinary) and matcha (powdered green tea) and blueberry cheesecake, which was phenomenal.	drinks	none
-maybe it was the great company (i had friends visiting from philly ¨C yes, it was not a date this time) or the super reasonable price point, but i just can¡¯t say enough good things about this brasserie.	service	none
-maybe it was the great company (i had friends visiting from philly ¨C yes, it was not a date this time) or the super reasonable price point, but i just can¡¯t say enough good things about this brasserie.	food	none
-maybe it was the great company (i had friends visiting from philly ¨C yes, it was not a date this time) or the super reasonable price point, but i just can¡¯t say enough good things about this brasserie.	misc	none
-maybe it was the great company (i had friends visiting from philly ¨C yes, it was not a date this time) or the super reasonable price point, but i just can¡¯t say enough good things about this brasserie.	price	none
-maybe it was the great company (i had friends visiting from philly ¨C yes, it was not a date this time) or the super reasonable price point, but i just can¡¯t say enough good things about this brasserie.	ambience	none
-maybe it was the great company (i had friends visiting from philly ¨C yes, it was not a date this time) or the super reasonable price point, but i just can¡¯t say enough good things about this brasserie.	location	none
-maybe it was the great company (i had friends visiting from philly ¨C yes, it was not a date this time) or the super reasonable price point, but i just can¡¯t say enough good things about this brasserie.	drinks	none
-i don¡¯t usually visit the same establishment more than once, what more twice, but i¡¯ll come to zenkichi anytime for a quiet, unhurried and memorable dinner.	service	none
-i don¡¯t usually visit the same establishment more than once, what more twice, but i¡¯ll come to zenkichi anytime for a quiet, unhurried and memorable dinner.	food	none
-i don¡¯t usually visit the same establishment more than once, what more twice, but i¡¯ll come to zenkichi anytime for a quiet, unhurried and memorable dinner.	misc	none
-i don¡¯t usually visit the same establishment more than once, what more twice, but i¡¯ll come to zenkichi anytime for a quiet, unhurried and memorable dinner.	price	none
-i don¡¯t usually visit the same establishment more than once, what more twice, but i¡¯ll come to zenkichi anytime for a quiet, unhurried and memorable dinner.	location	none
-i don¡¯t usually visit the same establishment more than once, what more twice, but i¡¯ll come to zenkichi anytime for a quiet, unhurried and memorable dinner.	drinks	none
+maybe it was the great company (i had friends visiting from philly â€“ yes, it was not a date this time) or the super reasonable price point, but i just canâ€™t say enough good things about this brasserie.	service	none
+maybe it was the great company (i had friends visiting from philly â€“ yes, it was not a date this time) or the super reasonable price point, but i just canâ€™t say enough good things about this brasserie.	food	none
+maybe it was the great company (i had friends visiting from philly â€“ yes, it was not a date this time) or the super reasonable price point, but i just canâ€™t say enough good things about this brasserie.	misc	none
+maybe it was the great company (i had friends visiting from philly â€“ yes, it was not a date this time) or the super reasonable price point, but i just canâ€™t say enough good things about this brasserie.	price	none
+maybe it was the great company (i had friends visiting from philly â€“ yes, it was not a date this time) or the super reasonable price point, but i just canâ€™t say enough good things about this brasserie.	ambience	none
+maybe it was the great company (i had friends visiting from philly â€“ yes, it was not a date this time) or the super reasonable price point, but i just canâ€™t say enough good things about this brasserie.	location	none
+maybe it was the great company (i had friends visiting from philly â€“ yes, it was not a date this time) or the super reasonable price point, but i just canâ€™t say enough good things about this brasserie.	drinks	none
+i donâ€™t usually visit the same establishment more than once, what more twice, but iâ€™ll come to zenkichi anytime for a quiet, unhurried and memorable dinner.	service	none
+i donâ€™t usually visit the same establishment more than once, what more twice, but iâ€™ll come to zenkichi anytime for a quiet, unhurried and memorable dinner.	food	none
+i donâ€™t usually visit the same establishment more than once, what more twice, but iâ€™ll come to zenkichi anytime for a quiet, unhurried and memorable dinner.	misc	none
+i donâ€™t usually visit the same establishment more than once, what more twice, but iâ€™ll come to zenkichi anytime for a quiet, unhurried and memorable dinner.	price	none
+i donâ€™t usually visit the same establishment more than once, what more twice, but iâ€™ll come to zenkichi anytime for a quiet, unhurried and memorable dinner.	location	none
+i donâ€™t usually visit the same establishment more than once, what more twice, but iâ€™ll come to zenkichi anytime for a quiet, unhurried and memorable dinner.	drinks	none
 terrible would be a compliment!	service	none
 terrible would be a compliment!	food	none
 terrible would be a compliment!	misc	none
@@ -30025,12 +30025,12 @@ but nonetheless--great spot, great food.	price	none
 but nonetheless--great spot, great food.	ambience	none
 but nonetheless--great spot, great food.	location	none
 but nonetheless--great spot, great food.	drinks	none
-fabulous food - if the front of house staff don't put you off ¨C	misc	none
-fabulous food - if the front of house staff don't put you off ¨C	price	none
-fabulous food - if the front of house staff don't put you off ¨C	ambience	none
-fabulous food - if the front of house staff don't put you off ¨C	restaurant	none
-fabulous food - if the front of house staff don't put you off ¨C	location	none
-fabulous food - if the front of house staff don't put you off ¨C	drinks	none
+fabulous food - if the front of house staff don't put you off â€“	misc	none
+fabulous food - if the front of house staff don't put you off â€“	price	none
+fabulous food - if the front of house staff don't put you off â€“	ambience	none
+fabulous food - if the front of house staff don't put you off â€“	restaurant	none
+fabulous food - if the front of house staff don't put you off â€“	location	none
+fabulous food - if the front of house staff don't put you off â€“	drinks	none
 it's a little out of our price range for dining there except on special occasions, but we've eaten there 6 times in the last 2 years.	service	none
 it's a little out of our price range for dining there except on special occasions, but we've eaten there 6 times in the last 2 years.	food	none
 it's a little out of our price range for dining there except on special occasions, but we've eaten there 6 times in the last 2 years.	misc	none
@@ -30256,13 +30256,13 @@ poor service and management	ambience	none
 poor service and management	restaurant	none
 poor service and management	location	none
 poor service and management	drinks	none
-don¡¯t go to this place!	service	none
-don¡¯t go to this place!	food	none
-don¡¯t go to this place!	misc	none
-don¡¯t go to this place!	price	none
-don¡¯t go to this place!	ambience	none
-don¡¯t go to this place!	location	none
-don¡¯t go to this place!	drinks	none
+donâ€™t go to this place!	service	none
+donâ€™t go to this place!	food	none
+donâ€™t go to this place!	misc	none
+donâ€™t go to this place!	price	none
+donâ€™t go to this place!	ambience	none
+donâ€™t go to this place!	location	none
+donâ€™t go to this place!	drinks	none
 had an awful experience at casa la femme on a saturday dinner.	service	none
 had an awful experience at casa la femme on a saturday dinner.	food	none
 had an awful experience at casa la femme on a saturday dinner.	misc	none
@@ -30312,12 +30312,12 @@ on the way out, we heard of other guests complaining about similar issues.	ambie
 on the way out, we heard of other guests complaining about similar issues.	restaurant	none
 on the way out, we heard of other guests complaining about similar issues.	location	none
 on the way out, we heard of other guests complaining about similar issues.	drinks	none
-can¡¯t believe how an expensive nyc restaurant can be so disrespectful to its clients.	food	none
-can¡¯t believe how an expensive nyc restaurant can be so disrespectful to its clients.	misc	none
-can¡¯t believe how an expensive nyc restaurant can be so disrespectful to its clients.	price	none
-can¡¯t believe how an expensive nyc restaurant can be so disrespectful to its clients.	ambience	none
-can¡¯t believe how an expensive nyc restaurant can be so disrespectful to its clients.	location	none
-can¡¯t believe how an expensive nyc restaurant can be so disrespectful to its clients.	drinks	none
+canâ€™t believe how an expensive nyc restaurant can be so disrespectful to its clients.	food	none
+canâ€™t believe how an expensive nyc restaurant can be so disrespectful to its clients.	misc	none
+canâ€™t believe how an expensive nyc restaurant can be so disrespectful to its clients.	price	none
+canâ€™t believe how an expensive nyc restaurant can be so disrespectful to its clients.	ambience	none
+canâ€™t believe how an expensive nyc restaurant can be so disrespectful to its clients.	location	none
+canâ€™t believe how an expensive nyc restaurant can be so disrespectful to its clients.	drinks	none
 what a hassle!	service	none
 what a hassle!	food	none
 what a hassle!	misc	none

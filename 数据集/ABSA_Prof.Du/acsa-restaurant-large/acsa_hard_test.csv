@@ -1,4 +1,4 @@
-sentence	aspect	polarity
+ï»¿sentence	aspect	polarity
 certainly not the best sushi in new york, however, it is always fresh, and the place is very clean, sterile.	food	neutral
 certainly not the best sushi in new york, however, it is always fresh, and the place is very clean, sterile.	ambience	positive
 while there's a decent menu, it shouldn't take ten minutes to get your drinks and 45 for a dessert pizza.	food	positive
@@ -144,8 +144,8 @@ i have it a 4 instead of 5 because of the price (just chicken tikka masala - no 
 i have it a 4 instead of 5 because of the price (just chicken tikka masala - no bread of rice - is $25), which i would expect at a upscale indian restaurant but this place doesn't have an upscale feel.	ambience	negative
 but if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for indian food	food	positive
 but if you're prepared to spend some $ and remember to ask if something they offer is complimentary, then this is the place to go for indian food	restaurant	negative
-not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate d¨¦cor will make you feel like you¡¯re no longer in the city.	location	neutral
-not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate d¨¦cor will make you feel like you¡¯re no longer in the city.	ambience	positive
+not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate dÃ©cor will make you feel like youâ€™re no longer in the city.	location	neutral
+not only is it an adventure getting to this somewhat hidden spot, once you enter the unmarked wooden doors, the zen and intimate dÃ©cor will make you feel like youâ€™re no longer in the city.	ambience	positive
 price is high but the food is good, so i would come back again.	food	neutral
 price is high but the food is good, so i would come back again.	restaurant	positive
 the food was great and tasty, but the sitting space was too small, i don't like being cramp in a corner.	food	positive
@@ -169,8 +169,8 @@ the decor however seems to be the distraction so you won't notice that you just 
 the decor however seems to be the distraction so you won't notice that you just payed 300 bucks for some cold eggplant that took 2 frickin hours to come!!!!	service	negative
 though it's been crowded most times i've gone here, bark always delivers on their food.	food	positive
 though it's been crowded most times i've gone here, bark always delivers on their food.	restaurant	neutral
-fabulous food - if the front of house staff don't put you off ¨C	food	positive
-fabulous food - if the front of house staff don't put you off ¨C	service	negative
+fabulous food - if the front of house staff don't put you off â€“	food	positive
+fabulous food - if the front of house staff don't put you off â€“	service	negative
 each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes i would never return.	service	neutral
 each time we've been, the front of house staff (not the waiters - they're fantastic - but the people who greet and seat you) has been so hideous to us that were it not for the exceptional fish dishes i would never return.	food	positive
 the food and service were fine, however the maitre-d was incredibly unwelcoming and arrogant.	food	positive
@@ -215,9 +215,9 @@ terrible service, food ok, pricey	restaurant	negative
 food wise, its ok but a bit pricey for what you get considering the restaurant isn't a fancy place.	food	neutral
 food wise, its ok but a bit pricey for what you get considering the restaurant isn't a fancy place.	restaurant	negative
 food wise, its ok but a bit pricey for what you get considering the restaurant isn't a fancy place.	ambience	neutral
-¨C schooner or later's charming location along the marina in long beach and average food does not, unfortunately, compensate for its very poor customer service.	location	positive
-¨C schooner or later's charming location along the marina in long beach and average food does not, unfortunately, compensate for its very poor customer service.	food	neutral
-¨C schooner or later's charming location along the marina in long beach and average food does not, unfortunately, compensate for its very poor customer service.	service	negative
+â€“ schooner or later's charming location along the marina in long beach and average food does not, unfortunately, compensate for its very poor customer service.	location	positive
+â€“ schooner or later's charming location along the marina in long beach and average food does not, unfortunately, compensate for its very poor customer service.	food	neutral
+â€“ schooner or later's charming location along the marina in long beach and average food does not, unfortunately, compensate for its very poor customer service.	service	negative
 while this diner had reasonably good food, the restaurant staff seemed completely indifferent to our presence, and this attitude was reflected in the lack of service.	food	positive
 while this diner had reasonably good food, the restaurant staff seemed completely indifferent to our presence, and this attitude was reflected in the lack of service.	service	negative
 good food, great service, average prices (for the strip)	food	positive
